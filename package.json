@@ -8,5 +8,23 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.12.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "name": "sanachq",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chauhan13/sachbangq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chauhan13/sachbangq/issues"
+  },
+  "homepage": "https://github.com/chauhan13/sachbangq#readme",
+  "description": ""
 }
